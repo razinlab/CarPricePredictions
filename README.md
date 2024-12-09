@@ -9,4 +9,4 @@ This project predicts car prices based on a few different attributes such as mod
 - Hyperparameter Tuning (Randomized Search)
 
 ## Results
-An XGBoost random forest regressor did the best job while being faster than a decision tree. Predictions averaged 25% of the standard deviation in the data. Parameter tuning improved the model by about 20-30%.
+An XGBoost random forest regressor did the best job while being faster than a decision tree. Predictions averaged 20% of the standard deviation in the data. Parameter tuning improved the model by about 20-30%.
