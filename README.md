@@ -11,3 +11,9 @@ This project predicts car prices based on a few different attributes such as mod
 
 ## Results
 An XGBoost random forest regressor did the best job while being faster than a decision tree. Predictions averaged 20% of the standard deviation in the data. Parameter tuning improved the model by about 20-30%.
+
+## Next Steps
+Some possible next steps that can be taken for a more comprehensive solution are:
+- Automation of data collecton
+- Automation of data aggregation
+- Web deployment and online learning
