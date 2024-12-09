@@ -4,8 +4,9 @@ This project predicts car prices based on a few different attributes such as mod
 
 ## Features
 - Exploratory Data Analysis and Visualization
-- Regression Modeling (Linear, Decision Tree, Random Forest)
+- Regression Modeling (Linear, Decision Tree, Random Forest, XGBoost Forest)
 - Error Evaluation (RMSE, MAE, R^2)
+- Cross Validation
 - Hyperparameter Tuning (Randomized Search)
 
 ## Results
